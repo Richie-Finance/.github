@@ -29,15 +29,15 @@ Richie Finance is a PulseChain protocol designed to deepen pDAI liquidity, creat
 The protocol is built around two tokens:
 
 - **CASH** — an algorithmic token targeting a market price of **1 pDAI per CASH**.
-- **RICH** — the fixed-supply share token used for liquidity incentives and participation in eligible CASH expansion rewards.
+- **RICH** — the fixed-supply share token used for liquidity incentives and participation in CASH seigniorage rewards.
 
 ## The protocol
 
 - **The Marina** — provide and stake supported liquidity positions to earn RICH rewards.
-- **The Yacht Club** — stake RICH and receive CASH during eligible expansion epochs.
+- **The Yacht Club** — stake RICH and receive CASH seigniorage rewards.
 - **Peg Stability Module** — converts fees from RICH reward claims into treasury funding.
-- **Treasury** — manages reserves, productive positions, protocol-owned liquidity, and available peg-defense capital.
-- **Treasury rebates** — allow approved PulseChain assets to be exchanged for discounted, vesting RICH allocations.
+- **Treasury** — manages reserves, productive positions, protocol-owned liquidity, and peg-defense capital.
+- **Treasury rebates** — purchase discounted RICH shares for a range of whitelisted Pulsechain assets.
 
 ## Explore Richie Finance
 
