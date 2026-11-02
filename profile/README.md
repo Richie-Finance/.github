@@ -15,6 +15,10 @@
   &nbsp;&bull;&nbsp;
   <a href="https://docs.richie.finance/">Documentation</a>
   &nbsp;&bull;&nbsp;
+  <a href="https://github.com/Richie-Finance/solidity-contracts">Solidity Contracts</a>
+  &nbsp;&bull;&nbsp;
+  <a href="https://richie.finance/audit">Security Reviews</a>
+  &nbsp;&bull;&nbsp;
   <a href="https://x.com/richie_finance">X / Twitter</a>
   &nbsp;&bull;&nbsp;
   <a href="https://t.me/sourcecodesystems">Telegram Community</a>
@@ -39,12 +43,21 @@ The protocol is built around two tokens:
 - **Treasury** — manages reserves, productive positions, protocol-owned liquidity, and peg-defense capital.
 - **Treasury rebates** — purchase discounted RICH shares for a range of whitelisted Pulsechain assets.
 
+## Open-source contracts and security
+
+- **Solidity contracts** — review the protocol source, tests, deployment configuration, and revision history in the public [solidity-contracts repository](https://github.com/Richie-Finance/solidity-contracts).
+- **Security reviews** — read the published, revision-specific contract reports and Richie Finance responses at the [security review hub](https://richie.finance/audit).
+
+Security reports are point-in-time reviews of their stated source revisions. They complement, but do not replace, independent review, testing, monitoring, bug bounties, and operational controls.
+
 ## Explore Richie Finance
 
 | Destination | Link |
 | --- | --- |
 | Launch the app | [richie.finance](https://richie.finance/) |
 | Read the documentation | [docs.richie.finance](https://docs.richie.finance/) |
+| Review the Solidity codebase | [Richie-Finance/solidity-contracts](https://github.com/Richie-Finance/solidity-contracts) |
+| Read published security reviews | [richie.finance/audit](https://richie.finance/audit) |
 | Follow announcements | [@richie_finance](https://x.com/richie_finance) |
 | Join the community | [Richie Finance Telegram](https://t.me/sourcecodesystems) |
 
