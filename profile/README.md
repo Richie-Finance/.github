@@ -57,7 +57,7 @@ Security reports are point-in-time reviews of their stated source revisions. The
 | Launch the app | [richie.finance](https://richie.finance/) |
 | Read the documentation | [docs.richie.finance](https://docs.richie.finance/) |
 | Review the Solidity codebase | [Richie-Finance/solidity-contracts](https://github.com/Richie-Finance/solidity-contracts) |
-| Read published security reviews | [richie.finance/audit](https://richie.finance/audit) |
+| Security audits | [View published Richie Finance audits](https://richie.finance/audit) |
 | Follow announcements | [@richie_finance](https://x.com/richie_finance) |
 | Join the community | [Richie Finance Telegram](https://t.me/sourcecodesystems) |
 
